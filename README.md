@@ -1,8 +1,8 @@
-### List of free resources to improve your programming skills
+### List of free resources to learn coding or improve your coding skills
 
 
-- Freecode Camp [Youtube](https://www.google.com) [Website](https://www.google.com) [Twitter](https://www.google.com)
-- W3schools [Youtube](https://www.google.com)
+- Freecode Camp [Youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) [Website](https://www.freecodecamp.org/) [Twitter](https://twitter.com/freecodecamp?lang=en)
+- W3schools [Youtube](https://www.w3schools.com/)
 - Edureka
 - Traversy media
 - NetNinja
