@@ -9,4 +9,4 @@
 - Khan Academy [Website](https://www.khanacademy.org/)
 - Derek Banas [Youtube](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
 - Frontend Tips [Youtube](https://www.youtube.com/channel/UC0abAX9cuVB0klLobCewq-g)
-- Wes Bos [Youtube](https://www.youtube.com/c/WesBos/videos)
+- Wes Bos [Youtube](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
