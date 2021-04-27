@@ -2,7 +2,7 @@
 
 
 - Freecode Camp [Youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) [Website](https://www.freecodecamp.org/) [Twitter](https://twitter.com/freecodecamp?lang=en)
-- W3schools [Youtube](https://www.w3schools.com/)
+- W3schools [Website](https://www.w3schools.com/)
 - Edureka
 - Traversy media
 - NetNinja
